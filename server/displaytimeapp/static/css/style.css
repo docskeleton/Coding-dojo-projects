@@ -1,0 +1,32 @@
+#wrapper {
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(61, 58, 58);
+}
+
+#bod {
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 25px;
+    text-shadow: 5px 5px 10px aliceblue;
+}
+
+#p {
+    text-align: center;
+    margin: 0px;
+}
+
+#tbox {
+    width: 100%;
+    height: 900px;
+    background-color: rgb(51, 47, 47);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    display: inline-flexbox;
+    padding: 25px;
+    border-style: ridge;
+    border-width: 15px;
+}
